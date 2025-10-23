@@ -34,10 +34,13 @@ These insights collectively help the management focus on **improving customer ex
 - **Excel** – for data preparation and validation
 
 ## 📈 Dashboard Preview
+Data Model
 <img width="1019" height="689" alt="image" src="https://github.com/user-attachments/assets/5684c1df-b2b3-46bd-8c5c-fbbb92c0fe92" />
 
+Dashboard
 <img width="1436" height="709" alt="Dashboard" src="https://github.com/user-attachments/assets/7b11fbde-ad58-4bd0-9a2f-1cb0211f6a3e" />
 
+Revenue performance and trend
 <img width="1432" height="710" alt="Revenue Performance And Trend" src="https://github.com/user-attachments/assets/87de8f4f-6600-44d8-b1ca-9858a1e2d305" />
 
 
