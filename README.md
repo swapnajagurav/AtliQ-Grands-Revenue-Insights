@@ -39,7 +39,7 @@ These insights collectively help the management focus on **improving customer ex
 <img width="1432" height="710" alt="Revenue Performance And Trend" src="https://github.com/user-attachments/assets/87de8f4f-6600-44d8-b1ca-9858a1e2d305" />
 
 
-
+Live dashboard = https://app.powerbi.com/view?r=eyJrIjoiYmJlMjUwNGQtNGExMy00ZWE4LThlZGQtZTVmMGNmNzI1ZjFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## 👩‍💻 Author
 **Swapnaja Gurav**  
 📧LinkedIn Profile : https://www.linkedin.com/in/swapnaja-gurav
